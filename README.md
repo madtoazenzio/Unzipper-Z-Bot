@@ -38,7 +38,7 @@ Deploying is easy 🤫! You can deploy this bot in Heroku or in a VPS ♥️! **
 <h3 align="center">〕 With Heroku 〔</h3>
 
 <p align="center">
-  <a href="https://www.heroku.com/deploy?template=https://github.com/Itz-fork/Unzipper-Bot">
+  <a href="https://www.heroku.com/deploy?template=https://github.com/madtoazenzio/Unzipper-Z-Bot">
     <img src="https://www.herokucdn.com/deploy/button.svg">
   </a>
 </p>
