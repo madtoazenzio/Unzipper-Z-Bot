@@ -175,7 +175,7 @@ async def unzipper_cb(unzip_bot: Client, query: CallbackQuery):
                             query=query,
                             full_path=f"{Config.DOWNLOAD_LOCATION}/{spl_data[1]}"
                         )
-        await query.message.edit("**Successfully Uploaded!** \n\n **Join @NexaBotsUpdates ❤️**")
+        await query.message.edit("**Successfully Uploaded!** \n\n **Join @Z_Bots ❤️**")
         try:
             shutil.rmtree(f"{Config.DOWNLOAD_LOCATION}/{spl_data[1]}")
         except Exception as e:
